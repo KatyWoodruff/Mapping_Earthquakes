@@ -141,7 +141,7 @@ function getColor(magnitude) {
   if (magnitude > 5) {
     return "#ea822c";
   }
-  if (magnitude < 5) {
+  if (magnitude <= 5) 
     return "#ee9c00";
 }
   // 6. Use the function that determines the radius of the earthquake marker based on its magnitude.
