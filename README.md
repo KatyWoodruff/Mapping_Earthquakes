@@ -1,6 +1,6 @@
 # Mapping Earthquakes
 
-##Overview
+## Overview
 
 Here I have taken global data from the last 7 days and formatted it to show tectonic plates, all earthquakes, and major earthquakes. I have included different layers so all information can be viewed seperately. 
 
